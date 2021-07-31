@@ -1,0 +1,10 @@
+/* Tabla de gastos Mensuales*/  
+body{background-color: darkkhaki;}
+h1{ color:darkslategrey;}
+th{ color:darkblue;}
+#a{ color:rgb(100, 77, 235);}
+th{ background-color:goldenrod;}
+table {border-style: ridge }
+table{border-radius: 5px}
+table{background-color:rgb(184, 153, 132)}     
+table{border-radius: 5px;}
